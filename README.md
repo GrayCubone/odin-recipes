@@ -4,4 +4,5 @@ I will learn to set up a simple website with multiple pages and simply practice 
 
 
 Reflection post project:
-
+The HTML aspects were useful to get more muscle memory for the things I've learned.
+The greatest benefit from this project however was the practice with Git and with using Github.
