@@ -1,0 +1,15 @@
+body {
+    background-color: gray;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    text-align: center;
+}
+.title {
+    font-size: 48px;
+    
+}
+li {
+    margin: 12px auto;
+    margin-left: 650px;
+    text-align: left;
+}
